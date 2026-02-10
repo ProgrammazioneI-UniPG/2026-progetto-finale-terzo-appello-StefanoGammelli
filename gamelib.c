@@ -1317,7 +1317,7 @@ void crediti()
     stampa_titolo();
 
     printf(YELLOW "\n<--- CREDITI --->\n" RESET);
-    printf("Creato da: Stefano Il Gammello\n");
+    printf("Creato da: Stefano Gammelli\n");
 
     printf(YELLOW "\n<--- ALBO D'ORO --->\n" RESET);
     printf("1° Classificato: %s\n", vincitore1);

@@ -2,11 +2,12 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Stefano        
 
-## Cognome: 
+## Cognome: Gammelli
 
-## Matricola:
+## Matricola: 390795
 
 ## Commenti/modifiche al progetto:
-
+Aggiunta colonna sonora Stranger Things attraverso https://www.mpg123.de/ 
+Aggiunta Funzione di stampa tutta la mappa 
